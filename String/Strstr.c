@@ -12,4 +12,5 @@ int main(){
     else{
         printf("\nString found...");
     }
+    return 0;
 }
