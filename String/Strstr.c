@@ -8,7 +8,8 @@ int main(){
     gets(found);
     if(strstr(search,found)==NULL){
         printf("\nString not found..");
-    }else{
+    }
+    else{
         printf("\nString found...");
     }
 }
