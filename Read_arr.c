@@ -11,5 +11,4 @@ int main(){
         printf("\na[%d]=%d",i,arr[i]);
     }
     return 0;
-    
 }
