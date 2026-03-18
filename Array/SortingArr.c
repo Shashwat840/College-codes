@@ -26,7 +26,7 @@ int main(){
     int arr[5];
     int temp;
     for(int i =0;i<5;i++){
-        printf("\nENter elements:- ");
+        printf("\nEnter elements:- ");
         scanf("%d",&arr[i]);
     }
     for(int i=0;i<5;i++){
